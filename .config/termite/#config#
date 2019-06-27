@@ -1,0 +1,180 @@
+[options]
+#font = Consolas 12px
+#font = mononoki Nerd Font 11px
+#font = Monoisome 9px
+#font = TerminessTTF Nerd Font 12px
+#font = lemon 12px
+#font = Fira Code 10px
+#font = Iosevka 11px
+#font = Terminus 13px
+#font = xos4 Terminus 9
+#font = Envy Code R 9
+#font = Misc Tamsyn 10
+#font = ProFontIIx Nerd Font Mono 7
+font = Iosevka Term Medium 8
+allow_bold = true
+
+title = termite
+dynamic-title = false
+
+audible_bell = true
+urgent_on_bell = true
+
+scroll_on_keystroke = true
+
+cursor_blink = true
+cursor_shape = ibeam
+mouse_autohide = true
+
+
+#[colors]
+#cursor = #d8dee9
+#cursor_foreground = #2e3440
+#
+#foreground = #d8dee9
+#foreground_bold = #d8dee9
+#background = rgba(46, 52, 64, 0.75)
+#background = #2E3440
+#highlight = #4c566a
+
+#color0  = #2b303b
+#color1  = #bf616a
+#color2  = #a3be8c
+#color3  = #ebcb8b
+#color4  = #81a1c1
+#color5  = #b48ead
+#color6  = #88c0d0
+#color7  = #e5e9f0
+#color8  = #65737e
+#color9  = #bf616a
+#color10 = #a3be8c
+#color11 = #ebcb8b
+#color12 = #81a1c1
+#color13 = #b48ead
+#color14 = #8fbcbb
+#color15 = #eceff4
+#
+
+# Tomorrow Night
+#[colors]
+
+# special
+#foreground      = #c5c8c6
+#foreground_bold = #c5c8c6
+#cursor          = #8abeb7
+#background      = rgba(29, 31, 33, 0.65)
+
+# black
+#color0  = #1d1f21
+#color8  = #969896
+
+# red
+#color1  = #cc6666
+#color9  = #cc6666
+
+# green
+#color2  = #b5bd68
+#color10 = #b5bd68
+
+# yellow
+#color3  = #f0c674
+#color11 = #f0c674
+
+# blue
+#color4  = #81a2be
+#color12 = #81a2be
+
+# magenta
+#color5  = #b294bb
+#color13 = #b294bb
+
+# cyan
+#color6  = #8abeb7
+#color14 = #8abeb7
+
+# white
+#color7  = #c5c8c6
+#color15 = #ffffff
+
+# Some base-16 theme
+#[colors]
+
+# special
+#foreground      = #e8eddf
+#foreground_bold = #e8eddf
+#cursor          = #e8eddf
+#background      = rgba(55, 59, 65, 0.75)
+
+# black
+#color0  = #64696d
+#color8  = #64696d
+
+# red
+#color1  = #d85656
+#color9  = #d85656
+
+# green
+#color2  = #9eefaf
+#color10 = #9eefaf
+
+# yellow
+#color3  = #eae296
+#color11 = #eae296
+
+# blue
+#color4  = #6ea4bf
+#color12 = #6ea4bf
+
+# magenta
+#color5  = #ff9d8c
+#color13 = #ff9d8c
+
+# cyan
+#color6  = #8ac6d0
+#color14 = #8ac6d0
+
+# white
+#color7  = #e8eddf
+#color15 = #e8eddf
+
+# City-loghts theme : maybe needs work
+[colors]
+
+# special
+foreground      = #b7c5d3
+foreground_bold = #b7c5d3
+cursor          = #8bd49c
+background      = rgba(24, 30, 36, 0.00)
+
+# black
+color0  = #333f4a
+color8  = #41505e
+
+# red
+color1  = #d95468
+color9  = #d95468
+
+# green
+color2  = #8bd49c
+color10 = #8bd49c
+
+# yellow
+color3  = #ebbf83
+color11 = #f7dab3
+
+# blue
+color4  = #539afc
+color12 = #5ec4ff
+
+# magenta
+color5  = #b62d65
+color13 = #b62d65
+
+# cyan
+color6  = #70e1e8
+color14 = #70e1e8
+
+# white
+color7  = #718ca1
+color15 = #b7c5d3
+

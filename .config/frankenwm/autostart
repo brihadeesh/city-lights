@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+~/.config/frankenwm/launch.sh &
+xsetroot -cursor_name left_ptr &
+feh --bg-scale '/home/ossifrage/Pictures/Wallpapers/really_minimal/aleks-dahlberg-274644-unsplash.jpg' &
+compton -b &
+numlockx on &
+redshift -c ~/.config/redshift.conf &
+dunst &
+unclutter &
+mpd &
+#emacs --daemon &
